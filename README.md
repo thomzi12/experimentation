@@ -1,5 +1,5 @@
-# experimentation
-Python, etc. files related to experimentation
+# Helper Scripts
+Python, etc. files and notes related to data analyst work
 
 Some Pandas notes: 
 
